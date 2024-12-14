@@ -1,0 +1,9 @@
+PORT = 3000
+MONGO_URI = mongodb://localhost:27017/advancedAUTH
+JWT_SECRET = 123456789
+NODE_ENV = development
+MAILTRAP_TOKEN = 0cda5574aa445d38a3b4b7bd49667479
+CLIENT_URL =  https://localhost:5173
+MAILTRAP_ENDPOINT = https://send.api.mailtrap.io/
+
+//node .\mailtrap\mailtrap.config.js
